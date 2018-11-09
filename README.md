@@ -1,8 +1,8 @@
 # Workshop_AnimJS-GSAP
 
 ## Documentations et installation
-*	GSAP
-*	ScrollMagic
+*	[GSAP](https://greensock.com/get-started-js)
+*	[ScrollMagic](http://scrollmagic.io/docs/index.html#toc6)
 
 ## Exercices
 

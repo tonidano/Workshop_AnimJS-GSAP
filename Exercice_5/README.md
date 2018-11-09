@@ -1,21 +1,20 @@
-## Exercice 3 : cards
+## Exercice 5 : Square Footer
 
 * Suggestion de structure HTML :
 
-      <section id="card-container">
-        <div class="card" id="card1">
-          <img class="image" src="https://picsum.photos/200/300/?random
-            " alt="">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quisquam sed nisi ipsam doloremque! Similique eaque, error ipsa soluta assumenda </p>
+      <section class="footer">
+        <div class="container">
+          <div class="square-container">
+            <div class="square">
+              <img src="" alt="" class="">
+            </div>
+            [...]
+          </div>
         </div>
-        <div class="card" id="card2">
-          <img class="image" src="https://picsum.photos/200/300/?random
-            " alt="">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quisquam sed nisi ipsam doloremque! Similique eaque, error ipsa soluta assumenda </p>
-        </div>
-        <div class="card" id="card3">
-          <img class="image" src="https://picsum.photos/200/300/?random" alt="">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quisquam sed nisi ipsam doloremque! Similique eaque, error ipsa soluta assumenda </p>
-        </div>
-
       </section>
+
+* Astuce CSS : flexbox
+
+* Astuces JS :
+  * GSAP => [.staggerFrom](https://greensock.com/docs/TimelineMax/staggerFrom)
+  * ScrollMagic => [.setTween](http://scrollmagic.io/docs/animation.GSAP.html#Scene.setTween)
