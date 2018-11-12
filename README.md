@@ -18,3 +18,4 @@
 * Exercice : [3 - Cards](./Exercice_3)
 * Exercice : [4 - Cadre](./Exercice_4)
 * Exercice : [5 - Footer Square](./Exercice_5)
+* Exercice : [6 - Bac à sable](./Bac_a_sable)
