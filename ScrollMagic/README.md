@@ -1,29 +1,35 @@
-# GSAP
+# ScrollMagic
 
-* TweenLite (version légère) :  
-  * permet d'animer les paramètres d'un élement
-  * demande d'ajouter des plugins pour plus de possibilités.
+On commence par définir un nouveau controller (1/page)
 
+    var controller = new ScrollMagic.Controller();
 
-* TweenMax (version complète) :
-  * TweenLite + d'autres plugins (TimelineLite, TimelineMax, CSSPlugin, ...)
+On défini ensuite une scène (1/animation, il peut donc y en avoir plusieurs par page)
 
+    var scene = new ScrollMagic.Scene({
 
-* TimelineLite et TimelineMax :
-  * permet de réaliser des séquences d'événements
-  * gestion de la durée d'un événements par rapport aux autres.
-  * TimelineMax possède plus de fonctionnalités comme les répétitions, le yoyo, etc
+On détermine l'élément qui déclenchera l'animation au ScrollMagic
 
-![GSAP](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/GSAP.png)
+    triggerElement: 'element déclencheur',
 
-* La direction :
-  * .to => position initiale vers nouvelle
-  * .from => position nouvelle vers initiale
+On peut faire aller l'animation en sens inverse (ou non) au scroll-Up grace à :
 
-* La cible :
-  * .class, #id, {objet}, ...
+    reverse:true/false
+    })
 
-* La durée en seconde
+On ajoute la scène au controller
 
-* Les paramètres :
-  * {propriété : valeur}
+    .addTo(controller)
+
+On peut ajouter des indicateurs de couleurs pour visualiser l'endroit exact où l'animation se déclenchera
+
+    .addIndicators({
+      colorStart: 'green',
+      colorTrigger: 'red'
+     })
+
+![Indicateurs](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/indicateurs.png)
+
+Avec ce code, on peut déjà créer une série d'animations qui se déclencheront les unes après les autres.
+
+Pour plus d'infos et approfondir les possibilités de ScrollMagic, je vous invite à aller voir la [documentation](http://scrollmagic.io/docs/index.html).
