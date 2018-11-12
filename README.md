@@ -11,6 +11,7 @@
 
 ## Exercices
 
+* Théorie : [GSAP](./GSAP)
 * Exercice : [1 - Panneaux Coulissants](./Exercice_1)
 * Théorie : [ScrollMagic](./ScrollMagic)
 * Exercice : [2 - Open Book](./Exercice_2)
