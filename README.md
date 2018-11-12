@@ -4,6 +4,8 @@
 *	[GSAP](https://greensock.com/get-started-js)
 *	[ScrollMagic](http://scrollmagic.io/docs/index.html#toc6)
 
+![Scrollmagic](https://tonidano.github.com/assets/images/scrollmagic.gif)
+
 ## Exercices
 
 * Exercice : [1 - Panneaux Coulissants](./Exercice_1)
