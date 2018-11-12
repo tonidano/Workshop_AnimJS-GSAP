@@ -6,7 +6,7 @@ On commence par définir un nouveau controller (1/page)
 
 On défini ensuite une scène (1/animation, il peut donc y en avoir plusieurs par page)
 
-    var flip = new ScrollMagic.Scene({
+    var scene = new ScrollMagic.Scene({
 
 On détermine l'élément qui déclenchera l'animation au ScrollMagic
 
