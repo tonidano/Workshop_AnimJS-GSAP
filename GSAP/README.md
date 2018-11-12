@@ -14,19 +14,25 @@
   * gestion de la durée d'un événements par rapport aux autres.
   * TimelineMax possède plus de fonctionnalités comme les répétitions, le yoyo, etc
 
+
 ![GSAP](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/GSAP.png)
 
 * La direction :
   * .to => position initiale vers nouvelle
   * .from => position nouvelle vers initiale
 
-
 * La cible :
   * .class, #id, {objet}, ...
 
-
 * La durée : en seconde
-
 
 * Les paramètres :
   * {propriété : valeur}
+
+Pour avoir un aperçu complet des "commandes" GSAP, c'est par [ici](https://ihatetomatoes.net/wp-content/uploads/2016/07/GreenSock-Cheatsheet-4.pdf).
+
+## Les courbes de mouvements
+
+GSAP propose un [outil](https://greensock.com/ease-visualizer) qui est capable de générer un code qui permettra à vos élements de se mouvoir selon des courbes prédéfinies ou selon vos envies avec l'option custom.
+
+Testez les différentes possibilités à votre guise.
