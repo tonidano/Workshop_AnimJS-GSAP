@@ -1,5 +1,14 @@
 ## Exercice 2 : Open book
 
+Réalisez un livre qui s'ouvre grâce au scroll. 
+
+Thème du livre au choix mais doit contenir : 
+* un titre sur la couverture 
+* un texte à l'intérieur 
+* Bonus:  rajoutez une image de couverture et/ou à l'intérieur du livre.
+
+
+
 * Suggestion de structure HTML :
 
       <section class="perspective">
