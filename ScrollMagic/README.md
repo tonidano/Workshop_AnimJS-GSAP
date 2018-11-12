@@ -29,3 +29,7 @@ On peut ajouter des indicateurs de couleurs pour visualiser l'endroit exact où 
      })
 
 ![Indicateurs](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/indicateurs.png)
+
+Avec ce code, on peut déjà créer une série d'animations qui se déclencheront les unes après les autres.
+
+Pour plus d'infos et approfondir les possibilités de ScrollMagic, je vous invite à aller voir la [Documentations] (http://scrollmagic.io/docs/index.html).
