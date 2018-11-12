@@ -24,7 +24,7 @@ On ajoute la scène au controller
 On peut ajouter des indicateurs de couleurs pour visualiser l'endroit exact où l'animation se déclenchera
 
     .addIndicators({
-      colorStart: 'blue',
+      colorStart: 'green',
       colorTrigger: 'red'
      })
 
