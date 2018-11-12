@@ -3,9 +3,9 @@
 Réalisez un livre qui s'ouvre grâce au scroll. 
 
 Thème du livre au choix mais doit contenir : 
-* un titre sur la couverture 
-* un texte à l'intérieur 
-* Bonus:  rajoutez une image de couverture et/ou à l'intérieur du livre.
+1. un titre sur la couverture 
+2. un texte à l'intérieur 
+3. Bonus:  rajoutez une image de couverture et/ou à l'intérieur du livre.
 
 
 
