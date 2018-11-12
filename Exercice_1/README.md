@@ -3,7 +3,7 @@ Vous aurez besoin d’une image de votre choix avec un background transparent (p
 
 Pour les "searchgooglophobe", je vous fourni ce lion majestueux.
 
-![Lion](https://github.com/tonidano/Workshop_AnimJS-GSAP/tree/master/assets/images/lion.png)
+![Lion](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/lion.png)
 
 * Suggestion de structure HTML :
 
