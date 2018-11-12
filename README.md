@@ -3,7 +3,8 @@
 ## Documentations et installation
 *	[GSAP](https://greensock.com/get-started-js)
 *	[ScrollMagic](http://scrollmagic.io/docs/index.html#toc6)
-![Image of Yaktocat](https://tonidano.github.com/assets/images/scrollmagic.gif)
+
+![Scrollmagic](https://tonidano.github.com/assets/images/scrollmagic.gif)
 
 ## Exercices
 
