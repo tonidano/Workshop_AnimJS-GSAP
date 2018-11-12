@@ -2,6 +2,9 @@
 
 ## Documentations et installation
 *	[GSAP](https://greensock.com/get-started-js)
+
+![GSAP](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/greensock-logo.svg)
+
 *	[ScrollMagic](http://scrollmagic.io/docs/index.html#toc6)
 
 ![Scrollmagic](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/scrollmagic.gif)
