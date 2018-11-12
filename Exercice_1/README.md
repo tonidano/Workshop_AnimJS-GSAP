@@ -7,13 +7,13 @@ Pour les "searchgooglophobe", je vous fourni ce lion majestueux.
 
 * Suggestion de structure HTML :
 
-      <section class="panneaux">
-        <div class="grandpanneaugauche"></div>
-        <div class=" grandpanneaudroite"></div>
-        <div class="panneaucentral">
-          <div class="petitpanneaugauche"></div>
+      <section class="pannel">
+        <div class="leftlargepannel"></div>
+        <div class=" rightlargepannel"></div>
+        <div class="centralpannel">
+          <div class="leftsmallpannel"></div>
           <img src=".png" alt=" " class="image">
-          <div class="petitpanneaudroite"></div>
+          <div class="rightsmallpannel"></div>
         </div>
         <h1 class="texte">VOTRE TEXTE</h1>
       </section>
