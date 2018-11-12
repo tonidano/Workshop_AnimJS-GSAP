@@ -1,18 +1,31 @@
-# Workshop_AnimJS-GSAP
+# ScrollMagic
 
-## Documentations et installation
-*	[GSAP](https://greensock.com/get-started-js)
+On commence par définir un nouveau controller (1/page)
 
-![GSAP](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/greensock-logo.svg)
+    var controller = new ScrollMagic.Controller();
 
-*	[ScrollMagic](http://scrollmagic.io/docs/index.html#toc6)
+On défini ensuite une scène (1/animation, il peut donc y en avoir plusieurs par page)
 
-![Scrollmagic](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/scrollmagic.gif)
+    var flip = new ScrollMagic.Scene({
 
-## Exercices
+On détermine l'élément qui déclenchera l'animation au ScrollMagic
 
-* Exercice : [1 - Panneaux Coulissants](./Exercice_1)
-* Exercice : [2 - Open Book](./Exercice_2)
-* Exercice : [3 - Cards](./Exercice_3)
-* Exercice : [4 - Cadre](./Exercice_4)
-* Exercice : [5 - Footer Square](./Exercice_5)
+    triggerElement: 'element déclencheur',
+
+On peut faire aller l'animation en sens inverse (ou non) au scroll-Up grace à :
+
+    reverse:true/false
+    })
+
+On ajoute la scène au controller
+
+    .addTo(controller)
+
+On peut ajouter des indicateurs de couleurs pour visualiser l'endroit exact où l'animation se déclenchera
+
+    .addIndicators({
+      colorStart: 'blue',
+      colorTrigger: 'red'
+     })
+
+![Indicateurs](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/indicateurs.png)
