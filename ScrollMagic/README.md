@@ -8,7 +8,7 @@ On défini ensuite une scène (1/animation, il peut donc y en avoir plusieurs pa
 
     var scene = new ScrollMagic.Scene({
 
-On détermine l'élément qui déclenchera l'animation au ScrollMagic
+On détermine l'élément qui déclenchera l'animation au scroll
 
     triggerElement: 'element déclencheur',
 
