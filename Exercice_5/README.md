@@ -1,5 +1,7 @@
 ## Exercice 5 : Square Footer
 
+[Cards](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/footer.gif)
+
 * Suggestion de structure HTML :
 
       <section class="footer">
