@@ -11,7 +11,7 @@
 ![Scrollmagic](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/scrollmagic.gif)
 
 ## Exercices
-###### But : réaliser un site one-page qui contiendra plusieurs sections animées. Chacune d'elle sera déclenchée en fonction du scroll.
+##### But : réaliser un site one-page qui contiendra plusieurs sections animées. Chacune d'elle sera déclenchée en fonction du scroll.
 
 * Théorie : [GSAP](./GSAP)
 * Exercice : [1 - Header Panneaux Coulissants](./Exercice_1)

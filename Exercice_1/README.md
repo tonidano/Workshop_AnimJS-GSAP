@@ -18,7 +18,7 @@ Pour les "searchgooglophobes", je vous fourni ce lion majestueux.
         <h1 class="texte">VOTRE TEXTE</h1>
       </section>
 
-* Je laisse le CSS à vos talents de designer et graphiste, surprenez moi .
+* Je laisse le CSS à vos talents de designer et graphiste, surprenez moi.
 
 * Le JS :
 
