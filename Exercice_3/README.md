@@ -1,6 +1,6 @@
 ## Exercice 3 : cards
 
-[Cards](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/cards.gif)
+![Cards](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/cards.gif)
 
 * Suggestion de structure HTML :
 
