@@ -1,5 +1,7 @@
 ## Exercice 3 : cards
 
+[Cards](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/cards.avi)
+
 * Suggestion de structure HTML :
 
       <section class="card-container">
