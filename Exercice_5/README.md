@@ -1,6 +1,6 @@
 ## Exercice 5 : Square Footer
 
-[footer](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/footer.gif)
+![footer](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/footer.gif)
 
 * Suggestion de structure HTML :
 
