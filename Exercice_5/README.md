@@ -1,4 +1,4 @@
-## Exercice 5 : Square Footer
+## Exercice 4 : Square Footer
 
 ![footer](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/footer.gif)
 
