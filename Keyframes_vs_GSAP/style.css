@@ -1,0 +1,36 @@
+.box {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-weight: bold;
+  color: white;
+}
+
+.a {
+  position: relative;
+  animation: mymove 12s
+    /*infinite*/
+  ;
+}
+
+@keyframes mymove {
+  0% {
+    left: 0px;
+    background: red;
+    width: 100px;
+  }
+
+  50% {
+    left: 100px;
+    background: yellow;
+    width: 150px;
+  }
+
+  100% {
+    left: 200px;
+    background: green;
+    width: 200px;
+  }
+}
