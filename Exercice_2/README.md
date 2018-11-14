@@ -1,4 +1,4 @@
-## Exercice 2 : Open book
+## Exercice 5 : Open book
 
 ![Book](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/book.gif)
 
