@@ -1,4 +1,4 @@
-## Exercice 3 : cards
+## Exercice 2 : cards
 
 ![Cards](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/cards.gif)
 
