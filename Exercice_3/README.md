@@ -9,12 +9,11 @@
           <h2 class="boldTitle">TITRE</h2>
         </div>
         <div class="image-container">
-          <img src="./assets/images/licorne.jpg" alt="" class="licorne">
+          <img src="" alt="" class="image">
           <div class="inner-img">
           </div>
           <div class="describe">
-            <p class="text">D'après l'Académie française, le substantif féminin licorne est un emprunt à l'italien l'alicorno.Le nom français « licorne » étant vraisemblablement un emprunt du XIVe siècle à l'italien, lui-même forme altérée du
-          latin chrétien unicornis. </p>
+            <p class="text">votre texte </p>
           </div>
         </div>
       </section>
