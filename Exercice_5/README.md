@@ -40,16 +40,5 @@ Thème du livre au choix mais doit contenir :
 
 * ScrollMagic (JS)
 
-      var controller = new ScrollMagic.Controller();
-
-      var flip = new ScrollMagic.Scene({
-      triggerElement: 'element déclencheur',
-      reverse:true/false
-      })
-
-      .setClassToggle('.cover', 'fall')
-      .addTo(controller)
-      .addIndicators({
-        colorStart: 'blue',
-        colorTrigger: 'red'
-       })
+      .setClassToggle('classe déjà définie dans le HTML', 'classe à ajouter')
+      
