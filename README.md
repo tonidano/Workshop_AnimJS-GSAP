@@ -20,7 +20,11 @@
 * Exercice : [3 - Cadre](./Exercice_3)
 * Exercice : [4 - Footer Square](./Exercice_4)
 * Exercice : [5 - Open Book](./Exercice_5)
+<<<<<<< HEAD
 * Exercice : [6 - Bac à sable](./Bac_a_sable)
 
 #### Allez-y, lancez-vous !
 ![let's go](https://media.giphy.com/media/zG0b0l4jnZMre/giphy.gif)
+=======
+* Exercice : [6 - Bac à sable](./Exercice_6)
+>>>>>>> 127d6476286efdaa7be4e4e1cfcdda82cf1d9bfc
