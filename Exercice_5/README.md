@@ -40,5 +40,5 @@ Thème du livre au choix mais doit contenir :
 
 * ScrollMagic (JS)
 
-      .setClassToggle('classe déjà définie dans le HTML', 'classe à ajouter')
+   => [.setClassToggle](http://scrollmagic.io/docs/ScrollMagic.Scene.html#setClassToggle)
       
