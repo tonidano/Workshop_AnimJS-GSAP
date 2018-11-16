@@ -20,6 +20,7 @@
 * La direction :
   * .to => position initiale vers nouvelle
   * .from => position nouvelle vers initiale
+  * .fromTo => position nouvelle vers autre position
 
 * La cible :
   * .class, #id, {objet}, ...
