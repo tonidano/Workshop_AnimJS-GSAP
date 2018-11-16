@@ -1,7 +1,7 @@
-## Exercice 1 : Header à panneaux coulissant
+## Exercice 1 : Header à panneaux coulissants
 Vous aurez besoin d’une image de votre choix avec un background transparent (par exemple .png)
 
-Pour les "searchgooglophobes", je vous fourni ce lion majestueux.
+Pour les "searchgooglophobes", je vous fournis ce lion majestueux.
 
 ![Lion](https://github.com/tonidano/Workshop_AnimJS-GSAP/blob/master/assets/images/lion.png)
 
@@ -18,7 +18,7 @@ Pour les "searchgooglophobes", je vous fourni ce lion majestueux.
         <h1 class="texte">VOTRE TEXTE</h1>
       </section>
 
-* Je laisse le CSS à vos talents de designer et graphiste, surprenez moi.
+* Je laisse le CSS à vos talents de designer et graphiste, surprenez-moi.
 
 * Le JS :
 

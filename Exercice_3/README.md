@@ -21,6 +21,6 @@
 
 * Astuce CSS : flexbox
 
-* Astuces JS :
+* Astuce JS :
 
   * ScrollMagic =>           [.setTween](http://scrollmagic.io/docs/animation.GSAP.html#Scene.setTween)

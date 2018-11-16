@@ -4,15 +4,15 @@ On commence par définir un nouveau controller (1/page)
 
     var controller = new ScrollMagic.Controller();
 
-On défini ensuite une scène (1/animation, il peut donc y en avoir plusieurs par page)
+On définit ensuite une scène (1/animation, il peut donc y en avoir plusieurs par page)
 
     var scene = new ScrollMagic.Scene({
 
 On détermine l'élément qui déclenchera l'animation au scroll
 
-    triggerElement: 'element déclencheur',
+    triggerElement: 'élément déclencheur',
 
-On peut faire aller l'animation en sens inverse (ou non) au scroll-Up grace à :
+On peut faire aller l'animation en sens inverse (ou non) au scroll-Up grâce à :
 
     reverse:true/false
     })

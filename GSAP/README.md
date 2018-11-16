@@ -1,7 +1,7 @@
 # GSAP
 
 * TweenLite (version légère) :  
-  * permet d'animer les paramètres d'un élement
+  * permet d'animer les paramètres d'un élément
   * demande d'ajouter des plugins pour plus de possibilités.
 
 
@@ -11,7 +11,7 @@
 
 * TimelineLite et TimelineMax :
   * permet de réaliser des séquences d'événements
-  * gestion de la durée d'un événements par rapport aux autres.
+  * gestion de la durée d'un événement par rapport aux autres.
   * TimelineMax possède plus de fonctionnalités comme les répétitions, le yoyo, etc
 
 
@@ -33,6 +33,6 @@ Pour avoir un aperçu complet des "commandes" GSAP, c'est par [ici](https://ihat
 
 ## Les courbes de mouvements
 
-GSAP propose un [outil](https://greensock.com/ease-visualizer) qui est capable de générer un code qui permettra à vos élements de se mouvoir selon des courbes prédéfinies ou selon vos envies avec l'option custom.
+GSAP propose un [outil](https://greensock.com/ease-visualizer) qui est capable de générer un code qui permettra à vos éléments de se mouvoir selon des courbes prédéfinies ou selon vos envies avec l'option custom.
 
 Testez les différentes possibilités à votre guise.
