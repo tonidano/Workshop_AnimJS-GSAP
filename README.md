@@ -21,3 +21,6 @@
 * Exercice : [4 - Footer Square](./Exercice_4)
 * Exercice : [5 - Open Book](./Exercice_5)
 * Exercice : [6 - Bac à sable](./Bac_a_sable)
+
+#### Allez-y, lancez-vous !
+![let's go](https://media.giphy.com/media/zG0b0l4jnZMre/giphy.gif)
